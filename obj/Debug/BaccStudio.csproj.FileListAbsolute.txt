@@ -1,0 +1,21 @@
+D:\vis\BaccStudio\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\vis\BaccStudio\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\vis\BaccStudio\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\vis\BaccStudio\bin\Debug\BaccStudio.exe.config
+D:\vis\BaccStudio\bin\Debug\BaccStudio.exe
+D:\vis\BaccStudio\bin\Debug\BaccStudio.pdb
+D:\vis\BaccStudio\bin\Debug\MetroSet UI.dll
+D:\vis\BaccStudio\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\vis\BaccStudio\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\vis\BaccStudio\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\vis\BaccStudio\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\vis\BaccStudio\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\vis\BaccStudio\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\vis\BaccStudio\obj\Debug\BaccStudio.csprojAssemblyReference.cache
+D:\vis\BaccStudio\obj\Debug\BaccStudio.Form1.resources
+D:\vis\BaccStudio\obj\Debug\BaccStudio.Properties.Resources.resources
+D:\vis\BaccStudio\obj\Debug\BaccStudio.csproj.GenerateResource.cache
+D:\vis\BaccStudio\obj\Debug\BaccStudio.csproj.CoreCompileInputs.cache
+D:\vis\BaccStudio\obj\Debug\BaccStudio.csproj.CopyComplete
+D:\vis\BaccStudio\obj\Debug\BaccStudio.exe
+D:\vis\BaccStudio\obj\Debug\BaccStudio.pdb
